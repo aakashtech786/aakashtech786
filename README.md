@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 <a
   href="https://wa.me/919241501724"
   target="_blank"
+  aria-label="WhatsApp Me"
   style="
     position: fixed;
-    bottom: 15px;
-    right: 15px;
+    bottom: 20px;
+    right: 20px;
     width: 70px;
     height: 70px;
     background: #25d366;
@@ -31,28 +32,26 @@ Here are some ideas to get you started:
     display: flex;
     align-items: center;
     justify-content: center;
-    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
     z-index: 1000;
+    text-decoration: none;
   "
 >
   <img
     src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
     alt="WhatsApp"
-    style="width: 22px; height: 22px"
+    style="width: 40px; height: 40px"
   />
+  <br>
 </a>
-<img
-  align="right"
-  alt="coding"
-  width="300"
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem82Nzc3bGZjY3puYXQ2NGNrb2Z4bHFqN3ljNmFwd29lc2J1cDFrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
-/>
+
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=aakashtech786&label=Profile%20views&color=0e75b6&style=flat"
     alt="aakashtech786"
   />
 </p>
+
 
 - ⚡ Fun fact **I talk to my code. Sometimes it talks back!😇**
 
