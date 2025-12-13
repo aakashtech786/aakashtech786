@@ -16,13 +16,37 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Aakash Kumar Prajapati</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
+<br />
+<a
+  href="https://wa.me/919241501724"
+  target="_blank"
+  style="
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+    width: 40px;
+    height: 40px;
+    background: #25d366;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+    z-index: 1000;
+  "
+>
+  <img
+    src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
+    alt="WhatsApp"
+    style="width: 22px; height: 22px"
+  />
+</a>
 <img
   align="right"
   alt="coding"
   width="300"
   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem82Nzc3bGZjY3puYXQ2NGNrb2Z4bHFqN3ljNmFwd29lc2J1cDFrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
 />
-<br>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=aakashtech786&label=Profile%20views&color=0e75b6&style=flat"
