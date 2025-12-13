@@ -24,8 +24,8 @@ Here are some ideas to get you started:
     position: fixed;
     bottom: 15px;
     right: 15px;
-    width: 40px;
-    height: 40px;
+    width: 70px;
+    height: 70px;
     background: #25d366;
     border-radius: 50%;
     display: flex;
