@@ -1,49 +1,11 @@
-## Hi there 👋
-
-<!--
-**aakashtech786/aakashtech786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm Aakash Kumar Prajapati</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
-<br />
-<a
-  href="https://wa.me/919241501724"
-  target="_blank"
-  aria-label="WhatsApp Me"
-  style="
-    position: fixed;
-    bottom: 20px;
-    right: 20px;
-    width: 70px;
-    height: 70px;
-    background: #25d366;
-    border-radius: 50%;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.35);
-    z-index: 1000;
-    text-decoration: none;
-  "
->
-  <img
-    src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"
-    alt="WhatsApp"
-    style="width: 40px; height: 40px"
-  />
-  <br>
-</a>
+<img
+  align="right"
+  alt="coding"
+  width="400"
+  src=" https://imarticus.org/blog/wp-content/uploads/2020/09/vsdq.gif  "
+/>
 
 <p align="left">
   <img
@@ -52,10 +14,15 @@ Here are some ideas to get you started:
   />
 </p>
 
-
-- ⚡ Fun fact **I talk to my code. Sometimes it talks back!😇**
-
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://wa.me/919241501724" target="_blank">
+    <img
+      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+      alt="WhatsApp"
+    />
+  </a>
+</p>
 <p align="left"></p>
 
 <h3 align="left">Languages and Tools:</h3>
