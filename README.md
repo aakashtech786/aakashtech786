@@ -22,6 +22,7 @@ Here are some ideas to get you started:
   width="300"
   src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExem82Nzc3bGZjY3puYXQ2NGNrb2Z4bHFqN3ljNmFwd29lc2J1cDFrciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
 />
+<a href="https://wa.me/919241501724" target="_blank">WhatsApp Me</a>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=aakashtech786&label=Profile%20views&color=0e75b6&style=flat"
