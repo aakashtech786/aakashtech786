@@ -10,7 +10,7 @@
 <p>
    <h2>#Visit My Projects</h2>
   <a href="https://github.com/aakashtech786/Frontend-project-">
-  <image width="400" hight="100"  src="https://github.com/aakashtech786/Frontend-project-/raw/main/Calculator%20project/SCREENSHOT.jpg">
+  <image width="300" hight="100"  src="https://github.com/aakashtech786/Frontend-project-/raw/main/Calculator%20project/SCREENSHOT.jpg">
 </p>
 
 
