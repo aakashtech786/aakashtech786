@@ -14,7 +14,7 @@
   />
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My Contact:</h3>
 <p align="left">
   <a href="https://wa.me/919241501724" target="_blank">
     <img
@@ -25,7 +25,7 @@
 </p>
 <p align="left"></p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Skills:</h3>
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img
