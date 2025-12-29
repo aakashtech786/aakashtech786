@@ -8,8 +8,8 @@
 />
 <br>
 <p>
-   <h2>#Calculator </h2>
-  <image width="300" hight="600"  src="https://github.com/aakashtech786/Frontend-project-/raw/main/Calculator%20project/SCREENSHOT.jpg">
+   <h2>#Go to My Projects</h2>
+  <image width="150" hight="300"  src="https://github.com/aakashtech786/Frontend-project-/raw/main/Calculator%20project/SCREENSHOT.jpg">
 </p>
 
 
