@@ -4,7 +4,7 @@
   align="right"
   alt="coding"
   width="400"
-  src="https://github.com/user-attachments/assets/9b0128a6-b0af-48c8-b61f-292b7a4a6dcf" />
+  src="" />
 "/>
  <h3>#Click⤵️ to Visit My Projects </h3>
 <p>
