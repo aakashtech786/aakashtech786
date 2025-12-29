@@ -4,7 +4,7 @@
   align="right"
   alt="coding"
   width="400"
-  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRet-BOS5qErTyK5fYeOwTct0ljzX8uTOfAFQ&s"/>
+  src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*ygaHmPjQnVmEApdT.gif"/>
 
  <h3>#Click⤵️ to Visit My Projects </h3>
 <p>
