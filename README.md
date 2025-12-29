@@ -4,7 +4,8 @@
   align="right"
   alt="coding"
   width="400"
-  src="https://adaonatalino.medium.com/how-to-increase-the-security-of-your-application-rails-and-react-ab3adea4a2fd"/>
+  src="<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/9b0128a6-b0af-48c8-b61f-292b7a4a6dcf" />
+"/>
  <h3>#Click⤵️ to Visit My Projects </h3>
 <p>
   <a href="https://github.com/aakashtech786/Frontend-project-">
