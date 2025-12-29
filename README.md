@@ -11,7 +11,7 @@
 <p>
    <h2>#Click⤵️ to Visit My Projects </h2>
   <a href="https://github.com/aakashtech786/Frontend-project-">
-  <image width="300" hight="100"  src="https://github.com/aakashtech786/Frontend-project-/blob/main/Calculator%20project/image.png?raw=true">
+  <image width="200" hight="50"  src="https://github.com/aakashtech786/Frontend-project-/blob/main/Calculator%20project/image.png?raw=true">
 </p>
 
 
