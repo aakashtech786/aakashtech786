@@ -14,7 +14,7 @@
   />
 </p>
 
-<h3 align="left">My Contact:</h3>
+<h3 align="left">Contact Me:</h3>
 <p align="left">
   <a href="https://wa.me/919241501724" target="_blank">
     <img
