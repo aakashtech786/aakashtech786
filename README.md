@@ -9,7 +9,7 @@
  <h3>#Click⤵️ to Visit My Projects </h3>
 <p>
   <a href="https://github.com/aakashtech786/Frontend-project-">
-  <image align="left" width="200" hight="100" src="https://github.com/aakashtech786/Frontend-project-/blob/main/Calculator%20project/image.png?raw=true">
+  <image left="0" width="200" hight="100" src="https://github.com/aakashtech786/Frontend-project-/blob/main/Calculator%20project/image.png?raw=true">
 </p>
 
 
