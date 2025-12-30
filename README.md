@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aakash Kumar Prajapati</h1>
+widththth align="center">Hi 👋, I'm Aakash Kumar Prajapati</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img
   align="right"
@@ -9,7 +9,7 @@
  <h3>#Click⤵️ to Visit My Projects </h3>
 <p>
   <a href="https://github.com/aakashtech786/Frontend-project-">
-  <image width="200" hight="100" src="https://github.com/aakashtech786/Frontend-project-/blob/main/Calculator%20project/image.png?raw=true">
+  <width align="centre" width="200" hight="100" src="https://github.com/aakashtech786/Frontend-project-/blob/main/Calculator%20project/image.png?raw=true">
 </p>
 
 <p align="left">
