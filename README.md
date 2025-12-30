@@ -9,11 +9,11 @@
  <h3>#Click⤵️ to Visit My Projects </h3>
 <p>
   <a href="https://github.com/aakashtech786/Frontend-project-">
-  <image width="200" hight="100" src="https://github.com/aakashtech786/Frontend-project-/blob/main/Calculator%20project/image.png?raw=true">
+  <image align="left" width="200" hight="100" src="https://github.com/aakashtech786/Frontend-project-/blob/main/Calculator%20project/image.png?raw=true">
 </p>
 
 
-
+<br>
 <p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=aakashtech786&label=Profile%20views&color=0e75b6&style=flat"
