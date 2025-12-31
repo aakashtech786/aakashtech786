@@ -1,4 +1,4 @@
-widththth align="center">Hi 👋, I'm Aakash Kumar Prajapati</h1>
+width align="center">Hi 👋, I'm Aakash Kumar Prajapati</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img
   align="right"
